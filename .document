@@ -11,7 +11,7 @@ prelude.rb
 
 # the lib/ directory (which has its own .document file)
 lib
-
+dfs
 # and some of the ext/ directory (which has its own .document file)
 ext
 
