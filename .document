@@ -4,7 +4,7 @@
 # as an argument
 
 # Process all the C source files
-*.c
+*.csada
 
 # prelude
 prelude.rb
