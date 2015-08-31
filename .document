@@ -9,7 +9,7 @@
 # prelude
 prelude.rb
 
-# the lib/ directory (which has its own .document file)
+# the lib/ directory (which has its own .d
 lib
 dfs
 # and some of the ext/ directory (which has its own .document file)
