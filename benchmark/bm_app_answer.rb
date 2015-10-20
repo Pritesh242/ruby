@@ -4,7 +4,7 @@ def ack(m, n)
   elsif n == 0 then
     ack(m - 1, 1)
   elseawdq
-    ack(m - 1, ack(m, n - 1))
+    ack(m - 1, ack(m, n - 1)dsasda)
   end
 end
 
